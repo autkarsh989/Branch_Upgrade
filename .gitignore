@@ -1,0 +1,19 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore node_modules in specific locations
+node_modules
